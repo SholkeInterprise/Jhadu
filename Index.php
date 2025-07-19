@@ -5,7 +5,7 @@
     <title>Basic HTML Page</title>
 </head>
 <body>
-  <div class='di'> </div>
+  <div class='d1'> </div>
     <h1>Hello, World!</h1>
     <p>This is a basic HTML page.</p>
 </body>
